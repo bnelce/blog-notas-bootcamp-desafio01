@@ -1,0 +1,10 @@
+{
+  "name": "blog-notas-bootcamp-desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abner Augusto Lima de Oliveira <abner.oliveira.ce@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
